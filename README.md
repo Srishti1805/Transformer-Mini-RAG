@@ -1,6 +1,6 @@
-# Transormer-Mini-RAG
+# Transformer-Mini-RAG
 
-**Transormer-Mini-RAG** is a minimal, educational implementation of Retrieval-Augmented Generation (RAG) using transformer models. The project demonstrates how to combine document retrieval with transformer-based text generation for question answering and information extraction tasks.
+**Transformer-Mini-RAG** is a minimal, educational implementation of Retrieval-Augmented Generation (RAG) using transformer models. The project demonstrates how to combine document retrieval with transformer-based text generation for question answering and information extraction tasks.
 
 ## Overview
 
